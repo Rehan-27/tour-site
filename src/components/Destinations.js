@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from "react-router-dom";
 function Destinations() {
 
     return (
@@ -14,7 +14,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Mumbai</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div id="card2" className="card my-2" style={{ width: "18rem" }}>
@@ -22,7 +22,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Bangalore</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -30,7 +30,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Pune</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Dehradun</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -48,7 +48,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Laddakh</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -56,7 +56,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Kashmir</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Kerala</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -74,7 +74,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Goa</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -82,7 +82,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Hyderabad</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@ function Destinations() {
                     <div className="card-body">
                         <h5 className="card-title">Mysore</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -100,7 +100,7 @@ function Destinations() {
                     <div className="card-body" >
                         <h5 className="card-title">Dubai</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
                 <div className="card my-2" style={{ width: "18rem" }}>
@@ -108,7 +108,7 @@ function Destinations() {
                     <div className="card-body" >
                         <h5 className="card-title">Abu Dhabi</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="/destinations" className="btn btn-sm btn-outline-success">Book Now</a>
+                        <Link to="/destinations" className="btn btn-sm btn-outline-success">Book Now</Link>
                     </div>
                 </div>
             </div>
