@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from "react-router-dom";
+
 function Destinations() {
 
     return (
 
-        < div className="row container-fluid py-2 m-0" >
+        < div id="destination" className="row container-fluid py-2 m-0" >
             <div className="container my-2">
                 <h2 className="text-center" style={{ color: 'green', fontWeight: "bold" }}>Select Your Destination</h2>
             </div>

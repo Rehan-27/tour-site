@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
     return (
-        <div className="container-fluid " style={{ minHeight: "80vh" }}>
+        <div id="about" className="container-fluid " style={{ minHeight: "80vh" }}>
             <div className="container pt-4 " >
                 <h1 className="text-center">About Us</h1>
                 <hr />

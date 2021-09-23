@@ -46,8 +46,9 @@
 }
 
 .contact{
-    height: 70vh;
+   min-height: 70vh;
     padding-top: 2rem;
+    padding-bottom: 2rem;
     background: url(./assets/contact.jpg) rgba(0, 0, 0, 0.5) no-repeat ;
     background-size: cover;
     background-position: center;

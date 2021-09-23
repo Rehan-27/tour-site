@@ -4,13 +4,12 @@ import { Link } from "react-router-dom";
 function Navbar() {
 
     const darkEnabled = () => {
-        document.body.classList.toggle("dark-mode");
-        document.querySelectorAll(".card-body").forEach(element => {
-            element.classList.toggle("dark-mode")
-        });
 
         document.getElementById("footer").style.color = "black";
-
+        document.body.classList.toggle("dark-mode")
+        document.querySelectorAll(".card-body").forEach((Element) => {
+            Element.classList.toggle("dark-mode")
+        })
         if (document.getElementById("dark-toggle").innerHTML === "Dark") {
             document.getElementById("dark-toggle").innerHTML = "light";
         }
@@ -49,3 +48,4 @@ function Navbar() {
 }
 
 export default Navbar
+
