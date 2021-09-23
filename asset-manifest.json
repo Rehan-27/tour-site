@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tour-site/static/css/main.806b9d25.chunk.css",
-    "main.js": "/tour-site/static/js/main.6cb2b214.chunk.js",
-    "main.js.map": "/tour-site/static/js/main.6cb2b214.chunk.js.map",
+    "main.css": "/tour-site/static/css/main.32848391.chunk.css",
+    "main.js": "/tour-site/static/js/main.68203b2d.chunk.js",
+    "main.js.map": "/tour-site/static/js/main.68203b2d.chunk.js.map",
     "runtime-main.js": "/tour-site/static/js/runtime-main.d7093544.js",
     "runtime-main.js.map": "/tour-site/static/js/runtime-main.d7093544.js.map",
     "static/js/2.d181dbeb.chunk.js": "/tour-site/static/js/2.d181dbeb.chunk.js",
     "static/js/2.d181dbeb.chunk.js.map": "/tour-site/static/js/2.d181dbeb.chunk.js.map",
     "index.html": "/tour-site/index.html",
-    "static/css/main.806b9d25.chunk.css.map": "/tour-site/static/css/main.806b9d25.chunk.css.map",
+    "static/css/main.32848391.chunk.css.map": "/tour-site/static/css/main.32848391.chunk.css.map",
     "static/js/2.d181dbeb.chunk.js.LICENSE.txt": "/tour-site/static/js/2.d181dbeb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tour-site/static/media/contact.d0ad9c57.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7093544.js",
     "static/js/2.d181dbeb.chunk.js",
-    "static/css/main.806b9d25.chunk.css",
-    "static/js/main.6cb2b214.chunk.js"
+    "static/css/main.32848391.chunk.css",
+    "static/js/main.68203b2d.chunk.js"
   ]
 }
